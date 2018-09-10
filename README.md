@@ -1,9 +1,9 @@
 # A08
 CHECKSUM
 
-#TASKS TO BE PERFORMED:-
+TASKS TO BE PERFORMED:-
 
-1) The program should be able to Send data to the server and server should response with the same data twice.
+1)The program should be able to Send data to the server and server should response with the same data twice.
     example: if client sends ABCD, sever response with ABCDABCD.
     
 2)Calculate the checksum of the original data and send it to server.At server end verify the message using checksum.
@@ -23,6 +23,7 @@ Server end: Recieve the data sent by client through the datagram packet.Split th
             
             
 Challenges faced:-
+
             Understanding the problem.
             
             Deciding a method for checksum calculation and how to send checksum.
