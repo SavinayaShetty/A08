@@ -30,3 +30,9 @@ Challenges faced:-
             
             There are many possible messages which gives the same checksum value as original data,so we couldn't find out how to 
             modify the message in a certain way so that it gives same checksum value.
+
+MEMBERS OF THE TEAM:-
+
+            1.Savinaya shetty 1KS16CS086
+            2.Shreelekha R N  1KS16CS093
+            3.Sheela          1KS16CS091
